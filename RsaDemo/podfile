@@ -1,0 +1,4 @@
+platform:ios, '80'
+target'RsaDemo' do
+pod 'OpenSSL-Universal', :git => 'https://github.com/krzyzanowskim/OpenSSL.git', :branch => :master
+end
